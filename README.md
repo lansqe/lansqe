@@ -4,7 +4,6 @@ Hi 👋 My name is Mark. A backend developer.
 
 * 🌍  I'm based in Moskow
 * ✉️  You can contact me at [prusarch@mail.ru](mailto:prusarch@mail.ru)
-* 🧠  I'm learning FastStream
 
 ### Skills
 
