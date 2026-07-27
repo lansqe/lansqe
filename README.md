@@ -2,7 +2,7 @@ Hi 👋 My name is Mark. A backend developer.
 ===========================================
 
 
-* 🌍  I'm based in Moskow
+* 🌍  I'm based in Moscow
 * ✉️  You can contact me at [prusarch@mail.ru](mailto:prusarch@mail.ru)
 
 ### Skills
